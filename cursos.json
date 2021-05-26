@@ -1,0 +1,18 @@
+[
+  {
+    "nivel":"1º",
+    "materia": ["_","Ciencias de la Naturaleza","Ciencias Sociales","Educación Artística",
+                "Educación Emocional y para la Creatividad","Educación Física","Lengua Castellana y Literatura",
+                "Matemáticas","Primera Lengua Extranjera (Inglés)","Religión Católica","Religión Evangélica",
+                "Religión Islámica","Valores Sociales y Cívicos"],
+    "dimMateria": ["_","CNA","CSO","EAR","EUM","EFI","LCL","MAT","PLW","RLG","RLE","RLN","VAL"]
+  },
+  {
+    "nivel":"2º",
+    "materia": ["_","Ciencias de la Naturaleza","Ciencias Sociales","Educación Artística",
+                "Educación Emocional y para la Creatividad","Educación Física","Lengua Castellana y Literatura",
+                "Matemáticas","Primera Lengua Extranjera (Inglés)","Religión Católica","Religión Evangélica",
+                "Religión Islámica","Valores Sociales y Cívicos"],
+    "dimMateria": ["_","CNA","CSO","EAR","EUM","EFI","LCL","MAT","PLW","RLG","RLE","RLN","VAL"]
+  }
+]
