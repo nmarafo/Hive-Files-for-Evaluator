@@ -1,36 +1,28 @@
 [
    {
-      "etapa":{
-         "nivel":{
-            "materia":[
-               {
-                  "_comment":"1º de Primaria - Ciencias de la Naturaleza - elementAt[0]",
-                  "criterio":"1. Explorar y experimentar los elementos de la naturaleza, de forma guiada, utilizando la observación, la medición con unidades no estandarizadas, la manipulación de materiales simples, el registro pautado de los datos o evidencias para explicar los hechos observados, y buscar ejemplos de otras manifestaciones similares en el entorno más próximo, mostrando curiosidad hacia la actividad científica.",
-                  "competencias":[
-                     "CD",
-                     "CMCT",
-                     "SIEE",
-                     "CSC"
-                  ]
-               },
-               {
-                  "criterio":"2. Identificar y representar las principales partes del cuerpo humano, a partir de imágenes, dibujos, modelos anatómicos y el propio cuerpo y expresar algunas relaciones entre el bienestar y la práctica de determinados hábitos saludables como la alimentación variada, la higiene personal, el ejercicio físico regulado o el descanso diario con la finalidad de adoptar hábitos saludables para prevenir enfermedades en el ámbito familiar y escolar.",
-                  "competencias":[
-                    "CMCT",
-                    "CSC",
-                    "CL"
-                  ]
-               },
-               {
-                  "criterio":"3. Identificar los animales y las plantas más relevantes de su entorno a través de observaciones directas e indirectas, reconociendo algunas de sus características y diferencias con la finalidad de adoptar modos de comportamiento que favorezcan su cuidado.",
-                  "competencias":[
-                     "CMCT",
-                    "CSC",
-                    "AA"
-                  ]
-               }
-            ]
-         }
-      }
+      "_comment":"1º de Primaria - Ciencias de la Naturaleza",
+      "criterio":"1. Explorar y experimentar los elementos de la naturaleza, de forma guiada, utilizando la observación, la medición con unidades no estandarizadas, la manipulación de materiales simples, el registro pautado de los datos o evidencias para explicar los hechos observados, y buscar ejemplos de otras manifestaciones similares en el entorno más próximo, mostrando curiosidad hacia la actividad científica.",
+      "competencias":[
+         "CD",
+         "CMCT",
+         "SIEE",
+         "CSC"
+      ]
+   },
+   {
+      "criterio":"2. Identificar y representar las principales partes del cuerpo humano, a partir de imágenes, dibujos, modelos anatómicos y el propio cuerpo y expresar algunas relaciones entre el bienestar y la práctica de determinados hábitos saludables como la alimentación variada, la higiene personal, el ejercicio físico regulado o el descanso diario con la finalidad de adoptar hábitos saludables para prevenir enfermedades en el ámbito familiar y escolar.",
+      "competencias":[
+         "CMCT",
+         "CSC",
+         "CL"
+      ]
+   },
+   {
+      "criterio":"3. Identificar los animales y las plantas más relevantes de su entorno a través de observaciones directas e indirectas, reconociendo algunas de sus características y diferencias con la finalidad de adoptar modos de comportamiento que favorezcan su cuidado.",
+      "competencias":[
+         "CMCT",
+         "CSC",
+         "AA"
+      ]
    }
 ]
