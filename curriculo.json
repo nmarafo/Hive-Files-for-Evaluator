@@ -1,8 +1,10 @@
 [
    {
-      "etapa":{  //primaria
-         "nivel":{  //1º
-            "materia":[  //ccnn
+      "etapa":{
+         "_comment":"Primero"
+         "nivel":{
+            "_comment":"Ciencias de la Naturaleza"
+            "materia":[
                {
                   "criterio":"1. Explorar y experimentar los elementos de la naturaleza, de forma guiada, utilizando la observación, la medición con unidades no estandarizadas, la manipulación de materiales simples, el registro pautado de los datos o evidencias para explicar los hechos observados, y buscar ejemplos de otras manifestaciones similares en el entorno más próximo, mostrando curiosidad hacia la actividad científica.",
                   "competencias":[
